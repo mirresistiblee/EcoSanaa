@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b5f6e4a-9454-41f2-97ab-5444fe7e65e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarSignupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/SignupModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repo/SignupRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/edit_profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/17176822.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/2668384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/3403129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/5214062-77e7122e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/5214062.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/5579299.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/599502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/600282.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/_14-9-2024_162211_www.bing.com.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/default-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/ng-female-student-with-afro-hairstyle-having-shy-look-laughing-wearing-stylish-round-eyeglasses-touching-her-neck-with-hand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1495556650867-99590cea3657.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1503596476-1c12a8ba09a9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1510251197878-a2e6d2cb590c.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1572213426852-0e4ed8f41ff6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1606037150583-fb842a55bae7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1610141160723-d2d346e73766.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1610725079793-6c7dfd7f2150.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1635605007233-f89705544846.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1639077983623-e040e482459b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1645033076951-dfd448018607.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1654029350827-184e0780d9d0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1654029351016-dad96601287a.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1654029351130-0d64168abece.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1654029351374-3847c16b9d59.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1654029351841-11a8c69582db.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1663439370994-66c77f12f3ba.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1707852710487-8f7837975208.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1716100946409-1a88c28267e7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1717667745830-de42bb75a4fa.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/photo-1717667745836-145a38948ebf.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/intlTelInput/intlTelInput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/intlTelInput/intlTelInput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/intlTelInput/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/edit_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarAboutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarMainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarMainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarEditProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarTeamController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/BilgisayarWhyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/about-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/about-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/about-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/about-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/client1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/client1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/client2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/client2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/hero-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/s1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/s1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/s2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/s2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/s3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/s3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/slider-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/slider-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/slider-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/slider-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/team-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/team-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/team-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/team-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/team-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/team-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/team-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/team-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/track-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/track-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/w1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/w1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/w2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/w2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/w3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/w3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/w4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/images/w4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/auth/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/login/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/login/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/login/nicepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/login/nicepage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/blocks/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/blocks/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/blocks/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/why.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2m3qKnUvWfBLVvUBZsZvlzk2qmi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/Desktop/NURSULTANAGAYJAVADERSLERI/ataymyrzaazima",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "fe01ce2a7fbac8fafaed7c982a04e229",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Bilgisayar1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Bilgisayar1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b5f6e4a-9454-41f2-97ab-5444fe7e65e8" name="Changes" comment="" />
+      <created>1726315549584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726315549584</updated>
+      <workItem from="1726315550513" duration="728000" />
+      <workItem from="1726327851440" duration="2786000" />
+      <workItem from="1726371220997" duration="5983000" />
+      <workItem from="1726394473289" duration="3700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Biligisayar1MYOJava_1$Bilgisayar1Application.ic" NAME="Bilgisayar1Application Coverage Results" MODIFIED="1726373867094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

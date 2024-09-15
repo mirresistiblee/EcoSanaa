@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 400px;
+            margin: 100px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #5a5a5a;
+        }
+
+        label {
+            font-size: 14px;
+            color: #333;
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        input[type="checkbox"] {
+            margin-right: 10px;
+        }
+
+        .button {
+            width: 100%;
+            background-color: #76c79e;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background-color: #68b18e;
+        }
+
+        .link {
+            display: block;
+            text-align: center;
+            margin: 15px 0;
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .link:hover {
+            text-decoration: underline;
+        }
+
+        .header {
+            text-align: right;
+            padding: 20px;
+        }
+
+        .header a {
+            margin-left: 20px;
+            color: #333;
+            text-decoration: none;
+        }
+
+        .header a:hover {
+            text-decoration: underline;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #aaa;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <a href="#">Main page</a>
+    <a href="#">Authorization</a>
+    <a href="#">Sign Up</a>
+</div>
+
+<div class="container">
+    <h2>Login</h2>
+    <form action="#" method="post">
+        <label for="username">Username *</label>
+        <input type="text" id="username" name="username" placeholder="Enter your Username" required>
+
+        <label for="password">Password *</label>
+        <input type="password" id="password" name="password" placeholder="Enter your Password" required>
+
+        <div>
+            <input type="checkbox" id="remember" name="remember">
+            <label for="remember">Remember me</label>
+        </div>
+
+        <button type="submit" class="button">Login</button>
+    </form>
+
+    <a href="#" class="link">Forgot password?</a>
+    <a href="#" class="link">Don't have an account?</a>
+</div>
+
+
+</body>
+</html>
