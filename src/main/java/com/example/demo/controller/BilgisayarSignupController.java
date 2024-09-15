@@ -34,7 +34,7 @@ public class BilgisayarSignupController {
     public String mainPageP (String fullname, String email, String password){
         SignupModel data2 = new SignupModel(fullname, email, password);
         databased1.save(data2);
-        return "redirect:/main";
+        return "redirect:/";
     }
 
 }
